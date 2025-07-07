@@ -6,7 +6,7 @@
     "overview": "🎮 **FUNCTIONAL v1.3.6.2 - GUARANTEED TO WORK** Transform your Jellyfin media server with working AI upscaling, intuitive UI, video player integration, and cross-platform compatibility.",
     "owner": "Kuschel-code",
     "category": "Video Enhancement",
-    "imageUrl": "https://raw.githubusercontent.com/Kuschel-code/JellyfinUpscalerPlugin/main/assets/logo.svg",
+    "imageUrl": "https://raw.githubusercontent.com/FFG18/JellyfinUpscalerPluginFix/refs/heads/main/assets/logo.svg",
     "versions": [
       {
         "version": "1.3.6.2",
